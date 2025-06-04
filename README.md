@@ -1,16 +1,59 @@
-## Hi there 👋
+# $ echo "Hello World!" 👨‍💻
 
-<!--
-**trishanrootcode/trishanrootcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>System Information</samp>
 
-Here are some ideas to get you started:
+```yaml
+name: Trishan Phillipsz
+role: Intern Software Engineer
+company: Rootcode Labs
+location: Sri Lanka
+status: Converting caffeine to code
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>Tech Stack</samp>
+
+```yaml
+languages:
+  - TypeScript
+  - Go
+tools:
+  - Git
+  - Terminal
+  - Neovim
+  - VS Code
+current_focus:
+  - DevOps
+  - Cloud Architecture
+```
+
+<samp>Debug Logs</samp>
+
+```bash
+$ sudo tail -f /var/log/trishan/status
+[INFO] Working on: Building scalable applications
+[INFO] Learning: Backend frameworks
+[DEBUG] Interests: Cloud computing
+[WARN] Coffee level: Critically low ☕
+[DEBUG] Football status: Hala Madrid! 🏆
+```
+
+<samp>Network Interfaces</samp>
+
+```typescript
+interface Contact {
+  email: string;
+  linkedin: string;
+  github: string;
+}
+
+const contact: Contact = {
+  email: "trishan.phillipsz@rootcode.io",
+  linkedin: "linkedin.com/in/stgp",
+  github: "github.com/Shenon69",
+} as const;
+
+export default contact;
+```
+
+<!-- Process completed with exit code 0 -->
+<!-- Real Madrid CF: 15 UCL Trophies and counting... -->
