@@ -5,7 +5,7 @@
 ```yaml
 name: Trishan Phillipsz
 role: Intern Software Engineer
-company: Rootcode Labs
+company: Rootcode
 location: Sri Lanka
 status: Converting caffeine to code
 ```
